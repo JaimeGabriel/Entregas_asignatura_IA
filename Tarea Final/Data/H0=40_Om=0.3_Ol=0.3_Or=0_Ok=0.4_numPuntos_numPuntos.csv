@@ -1,0 +1,4 @@
+"vectorZ","resultados"
+"RandomReal[{0, maxZ}, numPuntos, 0.1, maxZ]"
+"RandomReal[{-5 + (5*Log[1.1858541225631424*^10*Sinh[0.6324555320336759*NIntegrate[1/Eint[zint, 0.3, 0.3, 0], {zint, 0, {0, maxZ}}]]])/Log[10], -5 + (5*Log[1.1858541225631424*^10*(1 + maxZ)*Sinh[0.6324555320336759*NIntegrate[1/Eint[zint, 0.3, 0.3, 0], {zint, 0, {0, maxZ}}]]])/Log[10]}, -5 + (5*Log[1.1858541225631424*^10*(1 + numPuntos)*Sinh[0.6324555320336759*NIntegrate[1/Eint[zint, 0.3, 0.3, 0], {zint, 0, numPuntos}]]])/Log[10], 39.49254633856935, -5 + (5*Log[1.1858541225631424*^10*(1 + maxZ)*Sinh[0.6324555320336759*NIntegrate[1/Eint[zint, 0.3, 0.3, 0], {zint, 0, maxZ}]]])/Log[10]]"
+4,0.149164
